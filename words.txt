@@ -2,5 +2,9 @@ sof
 inz
 git
 hub
+<<<<<<< HEAD
 lab
 1
+=======
+lab
+>>>>>>> d988e0be4d60db78c5639f7d94bb1f110c5f68ed
